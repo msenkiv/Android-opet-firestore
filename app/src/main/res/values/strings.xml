@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Opet</string>
+    <string-array name="prioridade">
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
+    </string-array>
+</resources>
